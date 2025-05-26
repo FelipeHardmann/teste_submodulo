@@ -1,0 +1,3 @@
+[submodule "tenants"]
+	path = tenants
+	url = git@github.com:FelipeHardmann/tenants.git
